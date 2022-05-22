@@ -1,0 +1,8 @@
+.svgLogo {
+  -webkit-transform: matrix(0.98, 0.04, -0.19, 1, 8, -5);
+  transform: matrix(0.98, 0.04, -0.19, 1, 8, -5);
+  -webkit-box-shadow: 17px 18px 72px 3px #94a3c2;
+  box-shadow: 17px 18px 72px 3px #94a3c2;
+  border-radius: 2rem;
+  scale: 0.8;
+}

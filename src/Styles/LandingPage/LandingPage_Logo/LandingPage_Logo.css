@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  margin: 0%;
+  padding: 0%;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+  scale: 0.9;
+}
+
+.LandingPage_Logo-container {
+  width: 100%;
+  height: 100%;
+  background-color: #e5ebef9c;
+  border-radius: 20px 0 0 20px;
+}
+
+.LandingPage_Logo-container p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20.184px;
+  line-height: 107%;
+  text-align: center;
+  letter-spacing: 0.07em;
+  color: #727272;
+}
+
+.LandingPage_Logo-container h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 37.8944px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #000000;
+}
